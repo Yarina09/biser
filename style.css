@@ -1,0 +1,79 @@
+body {
+   font-family: sans-serif;
+}
+body {
+  font-family: sans-serif;
+background-color: white;
+}
+.logo {
+  height: 70px;
+  background-color: rgb(255, 255, 255);
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+
+header{
+background: linear-gradient(to right, #c6ae93, #edcdde);
+display: flex;
+margin: -10px;
+
+
+}
+header a{
+  margin: 40px 0px 0px 180px;
+  color: white;
+  text-decoration: none;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 5px;
+  text-align: center;
+  float: left;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #000000;
+  border: 3px dotted #edcdde;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 20px;
+}
+h1 img {
+  border: 2px dotted #edcdde;
+  height: 200px;
+  width: 200px;
+}
+main p {
+  border: 1px solid #edcdde;
+  padding: 5px;
+  margin: 10px 0px 5px 0px;
+  border-radius: 20px;
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+}
+h2 {
+  text-align: center;
+  border-radius: 20px;
+  border: 10px dotted #edcdde;
+}
+.foto {
+  height: 400px;
+  margin-left:350px;
+  border-radius: 20px;
+  border: 10px solid #edcdde;
+  padding: 5px;
+}
+.promo{
+  height: 450px;
+  margin-left: 50px;
+}
+footer p {
+text-align: center;
+color: white;
+}
+footer{
+  background-color: #edcdde;
+}
